@@ -1,0 +1,7 @@
+.app {
+    border: 4px solid black; /* Параметры границы */
+    padding: 10px; /* Поля вокруг текста */
+    margin: 7px; /* Значение отступов */
+    width: 500px;
+    margin: auto;
+}
